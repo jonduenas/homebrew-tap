@@ -1,8 +1,8 @@
 class XcbuildParser < Formula
   desc "Parse xcodebuild output and convert to structured JSON"
   homepage "https://github.com/jonduenas/xcbuild-parser"
-  url "https://github.com/jonduenas/xcbuild-parser/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "1ee5d51ba67e7056ad5942da76a2397f2d002e854b1b7b28ac870bb4ff209c7c"
+  url "https://github.com/jonduenas/xcbuild-parser/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "bdf6dadcb599345ef9eb5e5655ef90d5a6ac81a0192722c3874bd5e9db2cad69"
   license "MIT"
   head "https://github.com/jonduenas/xcbuild-parser.git", branch: "main"
 
